@@ -1,0 +1,32 @@
+_repo: Their-Majesties-Servants-Annals-of-the-English-Stage-Volume-3-of-3_47118
+contributor:
+  creator:
+    editor:
+      agent_name: Lowe, Robert William
+      birthdate: 1853
+      deathdate: 1902
+      gutenberg_agent_id: '43913'
+      url: http://www.gutenberg.org/2009/agents/43913
+creator:
+  author:
+    agent_name: Doran, Dr. (John)
+    alias: Doran, John
+    birthdate: 1807
+    deathdate: 1878
+    gutenberg_agent_id: '44142'
+    url: http://www.gutenberg.org/2009/agents/44142
+description: ''
+gutenberg_issued: '2014-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- Great Britain -- History'
+- !lcsh 'Actors -- Great Britain'
+title: '"Their Majesties'' Servants." Annals of the English Stage (Volume 3 of 3)'
+url: http://www.gutenberg.org/ebooks/47118
